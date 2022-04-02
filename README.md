@@ -5,5 +5,5 @@ Projects completed for the [FreeCodeCamp Scientific Computing with Python Certif
 1. Arithmetic Formatter
 2. Budget App
 3. Polygon Area Calcuator
-4.Probability Calculator
+4. Probability Calculator
 5. Time Calculator
